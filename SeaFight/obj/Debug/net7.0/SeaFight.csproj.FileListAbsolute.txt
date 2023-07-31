@@ -1,0 +1,15 @@
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\bin\Debug\net7.0\SeaFight.exe
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\bin\Debug\net7.0\SeaFight.deps.json
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\bin\Debug\net7.0\SeaFight.runtimeconfig.json
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\bin\Debug\net7.0\SeaFight.dll
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\bin\Debug\net7.0\SeaFight.pdb
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.csproj.AssemblyReference.cache
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.AssemblyInfoInputs.cache
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.AssemblyInfo.cs
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.csproj.CoreCompileInputs.cache
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.dll
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\refint\SeaFight.dll
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.pdb
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\SeaFight.genruntimeconfig.cache
+C:\Users\bohdan3\source\repos\SeaFight\SeaFight\obj\Debug\net7.0\ref\SeaFight.dll

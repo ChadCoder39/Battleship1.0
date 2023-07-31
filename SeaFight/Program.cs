@@ -1,0 +1,14 @@
+﻿using SeaFight;
+using System;
+
+class Program
+{
+
+
+
+    static void Main()
+    {
+        Game game = new Game();
+        game.Start();
+    }
+}
